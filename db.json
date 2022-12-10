@@ -1,0 +1,13 @@
+{
+  "Users": [
+    {
+      "id": 1,
+      "UserName": "Username",
+      "Password": "password",
+      "Email": "asd@gmail.com"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
