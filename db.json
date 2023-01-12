@@ -2,9 +2,11 @@
   "Users": [
     {
       "id": 1,
-      "UserName": "Username",
-      "Password": "password",
-      "Email": "asd@gmail.com"
+      "name": "bgabesz1",
+      "uname": "asd123",
+      "email": "asd@gmail.com",
+      "age": 21,
+      "psw":"psw"
     }
   ],
   "profile": {
